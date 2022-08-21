@@ -6,7 +6,7 @@ export default function App() {
     <div className="App">
       <div className='container'>
      <h1> React Weather App</h1>
-     <Weather/>
+     <Weather defaultCity="Bermuda"/>
 <footer> This project was coded by
   <a className='text-decoration-none' href='https://deft-bienenstitch-44c693.netlify.app/' target="blank">{" "}Jazmine Outerbridge</a> and is
       <a className='text-decoration-none' href='https://github.com/JazmineOuterbridge/final-project-react' target="blank">{" "}Open-sourced</a>
