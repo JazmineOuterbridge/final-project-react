@@ -1,0 +1,14 @@
+.container{
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #878787;
+}
+.App{
+    max-width: 600px;
+    margin: 30 auto;
+}
+
+.App footer{
+    font-size: 11px;
+    margin: 10px 0;
+}
