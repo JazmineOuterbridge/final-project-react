@@ -4,7 +4,7 @@ import DarkModeToggle from "./DarkModeToggle.js";
 
 export default function App() {
   return (
-    <div className="App">
+    <div className="App center">
       <div className='container'>
      <h1> React Weather App{" "}<DarkModeToggle/></h1>
      <Weather defaultCity="Bermuda"/>
