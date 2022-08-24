@@ -1,0 +1,8 @@
+.WeatherInfo h1{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.WeatherInfo li{
+    list-style-type: none;
+}

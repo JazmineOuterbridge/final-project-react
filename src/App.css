@@ -2,17 +2,33 @@
     margin-top: 20px;
     font-family: Arial, Helvetica, sans-serif;
     color: #878787;
+    border-radius: 15px;
+    box-shadow: 10px 10px 5px;
+    background: linear-gradient(112.1deg, rgb(32, 38, 57) 11.4%, rgb(63, 76, 119) 70.2%);
 }
 .App{
     max-width: 600px;
-    margin: auto;
+    margin: 30px auto;
 }
 
 .App h1{
     text-align: center;
 }
+.App a{
+    color: #7FFFD4;
+}
 
 .App footer{
     font-size: 11px;
     margin: 10px 0;
+}
+
+
+#light .container{
+    background: rgb(224, 250, 250);
+}
+
+
+#dark .container{
+    background: linear-gradient(112.1deg, rgb(32, 38, 57) 11.4%, rgb(63, 76, 119) 70.2%);
 }
