@@ -4,7 +4,7 @@ import DarkModeToggle from "react-dark-mode-toggle";
 import { createContext, useState } from 'react';
 
 
-export const ThemeContext = createContext(null);
+export const ThemeContext = createContext(undefined);
 
 export default function App() {
   const[theme, setTheme] = useState("dark");
