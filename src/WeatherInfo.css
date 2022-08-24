@@ -1,8 +1,15 @@
 .WeatherInfo h1{
     font-weight: bold;
     text-decoration: underline;
+    margin-top: 20px;
+    margin-left: 50px;
 }
 
 .WeatherInfo li{
     list-style-type: none;
+}
+
+.info-list{
+    margin-top: -40px;
+    margin-bottom: 40px;
 }
